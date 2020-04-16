@@ -107,7 +107,7 @@ Note2: The device developed by TU Delft is in the phase of clinical testing, as 
 
 For any questions or comments please contact:
 
-Reka Berci-Hajnovics [LinkedIn](https://www.linkedin.com/in/rekabercihajnovics/) - Biomedical Engineer
+**Reka Berci-Hajnovics**- Biomedical Engineer- [LinkedIn](https://www.linkedin.com/in/rekabercihajnovics/) 
 
-Marton Yuhaas [LinkedIn](https://www.linkedin.com/in/marton-yuhaas-0608ab17/) - Nowtech CEO
+**Marton Yuhaas** - Nowtech CEO- [LinkedIn](https://www.linkedin.com/in/marton-yuhaas-0608ab17/) 
 
